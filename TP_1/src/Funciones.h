@@ -9,7 +9,7 @@
 #define FUNCIONES_H_
 #include <stdio.h>
 #include <stdlib.h>
-#include "Gets.h"
+
 /// @brief Muestra un menu de opciones
 ///
 /// @param mensaje que muestra la primera opcion del menu que cuenta con un especifico formato

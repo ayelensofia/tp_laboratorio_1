@@ -9,6 +9,7 @@
  */
 
 #include "Funciones.h"
+#include "Gets.h"
 
 int main(void)
 {
